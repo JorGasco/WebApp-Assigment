@@ -20,6 +20,13 @@
       "email": "rosanne@gmail.com",
       "password": "Secret1",
       "id": "95267c74-28d6-49f6-afa3-8522115ef938"
+    },
+    {
+      "firstName": "Jorge",
+      "lastName": "Gasco",
+      "email": "jorgegascod@gmail.com",
+      "password": "Messi8498",
+      "id": "66345260-e9ca-4648-9cff-abd8c9cb2a3b"
     }
   ]
 }
